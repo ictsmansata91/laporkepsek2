@@ -1,0 +1,6 @@
+{
+  "name": "LaporKepsek",
+  "description": "Aplikasi Pelaporan Pelanggaran Guru SMAN 1 Petanahan untuk Kepala Sekolah dengan manajemen guru, user, laporan, cetak A4 Kop Surat, dan Pengaturan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
